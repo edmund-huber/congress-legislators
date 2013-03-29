@@ -608,6 +608,7 @@
   senate_committee_id: JSTX
 - type: senate
   name: United States Senate Caucus on International Narcotics Control
+  short-name: International Narcotics Control
   thomas_id: SCNC
   senate_committee_id: SCNC
 - type: senate
